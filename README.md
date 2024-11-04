@@ -62,3 +62,9 @@ The dataset used for this project includes the following columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sales-analysis-etl.git
+
+## Credits
+
+The dataset used for this project was obtained from Kaggle. Special thanks to the Kaggle community for providing valuable datasets that support data science and machine learning projects.
+
+[Link to Dataset on Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/mikhail1681/walmart-sales/)) 
